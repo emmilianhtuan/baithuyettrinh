@@ -1,8 +1,16 @@
+
 .products{
-  margin-top : 100px;
+  width: 50%
 }
   .main-product {
     margin-left :100px
+  }
+  .product-detail {
+    width: 45%;
+    box-sizing: border-box;
+  }
+  .total {
+    display:flex;
   }
   
   /* modal */
@@ -126,10 +134,15 @@
   /* wrapper */
 .wrapper {
     padding: 2rem;
+    display:flex;
+    margin-top:100px;
   }
+.product-detail{
+  margin-top:100px;
+}
   
   .products ul {
-    display: inline-block;
+    display: flex;
   }
   
   .products ul .main-product {

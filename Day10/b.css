@@ -1,0 +1,10 @@
+.main-table{
+    margin : 40px auto;
+    display:flex;
+    
+}
+.main-title{
+    width :50%;
+    text-align: center;
+    background: gray;
+}
