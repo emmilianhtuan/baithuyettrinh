@@ -95,7 +95,7 @@ a {
     clear: both;
 }
 
- 
+ /* footer */
 .site-footer
 {
   background-color:#26272b;
@@ -103,6 +103,7 @@ a {
   font-size:15px;
   line-height:24px;
   color:#737373;
+
 }
 .site-footer hr
 {
@@ -119,7 +120,8 @@ a {
   font-size:16px;
   text-transform:uppercase;
   margin-top:5px;
-  letter-spacing:2px
+  letter-spacing:2px;
+  margin-left:20px;
 }
 .site-footer a
 {
@@ -133,7 +135,8 @@ a {
 .footer-links
 {
   padding-left:0;
-  list-style:none
+  list-style:none;
+  margin-left :50px;
 }
 .footer-links li
 {
